@@ -1,0 +1,10 @@
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\bin\Debug\oopopakovani13092023.exe.config
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\bin\Debug\oopopakovani13092023.exe
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\bin\Debug\oopopakovani13092023.pdb
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\obj\Debug\oopopakovani13092023.csprojAssemblyReference.cache
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\obj\Debug\oopopakovani13092023.Form1.resources
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\obj\Debug\oopopakovani13092023.Properties.Resources.resources
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\obj\Debug\oopopakovani13092023.csproj.GenerateResource.cache
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\obj\Debug\oopopakovani13092023.csproj.CoreCompileInputs.cache
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\obj\Debug\oopopakovani13092023.exe
+G:\PROgramovani\oopopakovani13092023\oopopakovani13092023\obj\Debug\oopopakovani13092023.pdb
